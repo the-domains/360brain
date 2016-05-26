@@ -1,0 +1,14 @@
+layout_spectrum: 0.12576823076233268
+typography_spectrum: 0.708852207986638
+color:
+  brandStrength: 0.5468430311884731
+  lightness: 0.5259115903172642
+  saturation: 0.2973553645424545
+  rhythmicContrast: 0.32953610247932374
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: 360Brain
