@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 19:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 19:26:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Machine Learning - University of Washington | Coursera]]></title>
@@ -29,10 +29,17 @@
         </item>
         <item>
             <title><![CDATA[Microsoft UK Faculty Connection Microsoft UK Faculty Connection]]></title>
-            <description><![CDATA[<article><h1>Microsoft UK Faculty Connection Microsoft UK Faculty Connection</h1><p>Azure Machine Learning Studio comes with a large number of machine learning algorithms that you can use to solve predictive analytics problems. Firstly it really depends on the answers to the following questions 1. The size, quality, and nature of the data? 2. What you want to do with the answer?</p><img src="https://acom.azurecomcdn.net/80C57D/cdn/mediahandler/docarticles/dpsmedia-prod/azure.microsoft.com/en-us/documentation/articles/machine-learning-basics-infographic-with-algorithm-examples/20160426050153/machine-learning-basics-infographic-with-algorithm-examples.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Microsoft UK Faculty Connection Microsoft UK Faculty Connection</h1><p>Azure Machine Learning Studio comes with a large number of machine learning algorithms that you can use to solve predictive analytics problems. Firstly it really depends on the answers to the following questions 1. The size, quality, and nature of the data? 2. What you want to do with the answer?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90eaac4284e4ce49f0eec147103f1bde0619392a.png"></article>]]></description>
             <link>https://blogs.msdn.microsoft.com/uk_faculty_connection/2016/05/11/what-azure-machine-learning-algorithm-should-you-use/</link>
             <guid isPermaLink="false">3793016c-bf89-46bf-8987-4e48fcd52ac0</guid>
             <pubDate>Sun, 29 May 2016 19:25:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nvidia creates a 15B-transistor chip for deep learning]]></title>
+            <description><![CDATA[<article><h1>Nvidia creates a 15B-transistor chip for deep learning</h1><p>Nvidia chief executive Jen-Hsun Huang announced that the company has created a new chip, the Tesla P100, with 15 billion transistors for deep-learning computing. It's the biggest chip ever made, Huang said. Huang made the announcement during his keynote at the GPUTech conference in San Jose, California.</p><img src="http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/uploads/2016/04/dgx-1-800x457.jpg"></article>]]></description>
+            <link>http://venturebeat.com/2016/04/05/nvidia-creates-a-15b-transistor-chip-for-deep-learning/</link>
+            <guid isPermaLink="false">51d18a29-cad4-4612-8b35-c3647fda44a7</guid>
+            <pubDate>Sun, 29 May 2016 19:25:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Clustering Algorithms: From Start To State Of The Art]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.timeshighereducation.com/books/review-the-master-algorithm-pedro-domingos-allen-lane</link>
             <guid isPermaLink="false">a2b4e788-6844-460d-b37d-81c16ebe0502</guid>
             <pubDate>Sun, 29 May 2016 19:11:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pedro Domingos: "The Master Algorithm" | Talks at Google]]></title>
-            <description><![CDATA[<article><h1>Pedro Domingos: "The Master Algorithm" | Talks at Google</h1><p>Machine learning is the automation of discovery, and it is responsible for making our smartphones work, helping Netflix suggest movies for us to watch, and getting presidents elected. But there is a push to use machine learning to do even more-to cure cancer and AIDS and possibly solve every problem humanity has.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e0342f7df28cef44b868dea8ab5d1fd20956238.jpg"></article>]]></description>
-            <link>https://youtu.be/B8J4uefCQMc</link>
-            <guid isPermaLink="false">5282ee73-c7bf-47c8-bf3d-64d5261ca80f</guid>
-            <pubDate>Sun, 29 May 2016 19:10:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
