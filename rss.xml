@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 19:58:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 20:01:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[10 Deep Learning Terms Explained in Simple English]]></title>
@@ -28,8 +28,15 @@
             <pubDate>Thu, 26 May 2016 08:46:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Linear Regression in Excel - Titanic: Machine Learning from Disaster | Kaggle]]></title>
+            <description><![CDATA[<article><h1>Linear Regression in Excel - Titanic: Machine Learning from Disaster | Kaggle</h1><p>Kaggle is your home for data science. Learn new skills, build your career, collaborate with other data scientists, and compete in world class machine learning challenges.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c24a19824b7263c0b76d6d14ef5dd329d595955.png"></article>]]></description>
+            <link>https://www.kaggle.com/c/titanic/forums/t/21297/linear-regression-in-excel/121768</link>
+            <guid isPermaLink="false">756c9b4f-71b2-45df-bce6-f80ddbe01904</guid>
+            <pubDate>Sun, 29 May 2016 20:00:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Can machines be creative? Meet the Google coders teaching them to make art]]></title>
-            <description><![CDATA[<article><h1>Can machines be creative? Meet the Google coders teaching them to make art</h1><p>Can a machine be creative? Google thinks so, and it has an entire team dedicated to teaching machines how to view the world a little more like us emotional humans. Think about computers as if they were children and it's simple to understand how coders can teach them to learn.</p><img src="https://s.yimg.com/uu/api/res/1.2/EJOduiFWFTcbmLm5t4_pHA--/aD02NzQ7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en-US/homerun/digital_trends_973/d6faa1653fe6ea10847219424da16065"></article>]]></description>
+            <description><![CDATA[<article><h1>Can machines be creative? Meet the Google coders teaching them to make art</h1><p>Can a machine be creative? Google thinks so, and it has an entire team dedicated to teaching machines how to view the world a little more like us emotional humans. Think about computers as if they were children and it's simple to understand how coders can teach them to learn.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b12039d4cce8594d6e4e6bd4e50b488f08622e2.jpg"></article>]]></description>
             <link>https://www.yahoo.com/tech/machines-creative-meet-google-coders-101534957.html</link>
             <guid isPermaLink="false">a82cc711-dd54-4c69-b9d4-6d98eb63c419</guid>
             <pubDate>Sun, 29 May 2016 19:58:02 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.theinquirer.net/inquirer/news/2456593/googles-deepmind-ai-business-has-access-to-records-of-16-millio-nhs-patients</link>
             <guid isPermaLink="false">42e859d8-4698-4fc3-b7cd-bc5ca00a8ad6</guid>
             <pubDate>Sun, 29 May 2016 19:35:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tensorflow - Neural Network Playground]]></title>
-            <description><![CDATA[<article><h1>Tensorflow - Neural Network Playground</h1><p>It's a technique for building a computer program that learns from data. It is based very loosely on how we think the human brain works. First, a collection of software "neurons" are created and connected together, allowing them to send messages to each other.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b13620a0eb90ee4f5268ed94fae3bc1b4d634178.png"></article>]]></description>
-            <link>http://playground.tensorflow.org/</link>
-            <guid isPermaLink="false">8768e625-126c-45a0-90de-36281158758f</guid>
-            <pubDate>Sun, 29 May 2016 19:35:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
