@@ -4,14 +4,14 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata, news]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 21:26:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 21:28:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Guest Post (Part I): Demystifying Deep Reinforcement Learning - Nervana]]></title>
-            <description><![CDATA[<article><h1>Guest Post (Part I): Demystifying Deep Reinforcement Learning - Nervana</h1><p>Two years ago, a small company in London called DeepMind uploaded their pioneering paper " Playing Atari with Deep Reinforcement Learning " to Arxiv. In this paper they demonstrated how a computer learned to play Atari 2600 video games by observing just the screen pixels and receiving a reward when the game score increased.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d05706b9b804b64975c287f2105c014a741f6eb.png"></article>]]></description>
-            <link>http://www.nervanasys.com/demystifying-deep-reinforcement-learning/?imm_mid=0e2d7e&amp;cmp=em-data-na-na-newsltr_20160420</link>
-            <guid isPermaLink="false">246f2943-d55b-4541-9489-59532944d061</guid>
-            <pubDate>Sun, 29 May 2016 21:26:30 GMT</pubDate>
+            <title><![CDATA[ICO is investigating Google DeepMind's data-sharing deal with the NHS | TheINQUIRER]]></title>
+            <description><![CDATA[<article><h1>ICO is investigating Google DeepMind's data-sharing deal with the NHS | TheINQUIRER</h1><p>THE INFORMATION COMMISSIONER'S OFFICE (ICO) has confirmed that it will be casting its eye over the controversial data-sharing deal between Google Deepmind and the NHS. Computer Weekly has the scoop, having received confirmation from the ICO that it has launched an investigation into the deal following at least one complaint from the general public.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c51d2a5da042138345101f15b6dcc5cf05a090e.jpg"></article>]]></description>
+            <link>http://www.theinquirer.net/inquirer/news/2456593/googles-deepmind-ai-business-has-access-to-records-of-16-millio-nhs-patients</link>
+            <guid isPermaLink="false">42e859d8-4698-4fc3-b7cd-bc5ca00a8ad6</guid>
+            <pubDate>Sun, 29 May 2016 21:26:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/360brain/brain-deep-dreaming/index.html</link>
             <guid isPermaLink="false">167244f7-37dd-453a-ae5d-3572fd41f247</guid>
             <pubDate>Thu, 26 May 2016 08:46:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Guest Post (Part I): Demystifying Deep Reinforcement Learning - Nervana]]></title>
+            <description><![CDATA[<article><h1>Guest Post (Part I): Demystifying Deep Reinforcement Learning - Nervana</h1><p>Two years ago, a small company in London called DeepMind uploaded their pioneering paper " Playing Atari with Deep Reinforcement Learning " to Arxiv. In this paper they demonstrated how a computer learned to play Atari 2600 video games by observing just the screen pixels and receiving a reward when the game score increased.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d05706b9b804b64975c287f2105c014a741f6eb.png"></article>]]></description>
+            <link>http://www.nervanasys.com/demystifying-deep-reinforcement-learning/?imm_mid=0e2d7e&amp;cmp=em-data-na-na-newsltr_20160420</link>
+            <guid isPermaLink="false">246f2943-d55b-4541-9489-59532944d061</guid>
+            <pubDate>Sun, 29 May 2016 21:28:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[10 Deep Learning Terms Explained in Simple English]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.wired.com/2015/12/facebook-open-source-ai-big-sur/</link>
             <guid isPermaLink="false">d20ba675-e9f0-4d5b-a6de-f14c6b4d3832</guid>
             <pubDate>Sun, 29 May 2016 20:30:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI Algorithm Identifies Humorous Pictures]]></title>
-            <description><![CDATA[<article><h1>AI Algorithm Identifies Humorous Pictures</h1><p>The latest work with AI machines is expanding the new field of computational humor. Humor is a uniquely human quality. Most people can recognize funny sentences, incidents, pictures, videos, and so on. But it is not always easy to say why these things are humorous.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/447be7b4-a7e7-447a-98ac-2c8b8c6f0178.jpg"></article>]]></description>
-            <link>https://www.technologyreview.com/s/545316/ai-algorithm-identifies-humorous-pictures/</link>
-            <guid isPermaLink="false">a61a28a2-b65b-4c7b-ad3e-82813b7052d3</guid>
-            <pubDate>Sun, 29 May 2016 20:23:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
