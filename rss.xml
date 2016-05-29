@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata, news]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 23:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 23:19:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Inside the Epic Go Tournament Where Google's AI Came to Life]]></title>
@@ -42,8 +42,15 @@
             <pubDate>Thu, 26 May 2016 08:46:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[IEEE Transactions on Medical Imaging]]></title>
+            <description><![CDATA[<article><h1>IEEE Transactions on Medical Imaging</h1><p>IEEE is pleased to announce that the special May issue is now available</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de73c0e5bfe751e61bccb408f0bd719848605d3e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/360brain/ieee-transactions-on-medical-imaging/index.html</link>
+            <guid isPermaLink="false">f31e4141-30b3-4780-9013-226da1431f5a</guid>
+            <pubDate>Sun, 29 May 2016 23:19:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Deep Learning with Tony Jebara, Director of ML Research at Netflix]]></title>
-            <description><![CDATA[<article><h1>Deep Learning with Tony Jebara, Director of ML Research at Netflix</h1><p>Tony Jebara is a Professor of Computer Science at Columbia University and Director of Machine Learning Research at Netflix. His research intersects computer science and statistics to develop new frameworks for learning from data with applications in social networks, spatio-temporal data, vision and text.</p><img src="https://s3.amazonaws.com/re-work-production/post_images/189/yellow_orange_blue_connected_dots_brain/original.jpg?1461687090"></article>]]></description>
+            <description><![CDATA[<article><h1>Deep Learning with Tony Jebara, Director of ML Research at Netflix</h1><p>Tony Jebara is a Professor of Computer Science at Columbia University and Director of Machine Learning Research at Netflix. His research intersects computer science and statistics to develop new frameworks for learning from data with applications in social networks, spatio-temporal data, vision and text.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9dc70542ec722ad4eb7de6377585a4350b6521eb.jpg"></article>]]></description>
             <link>https://re-work.co/blog/deep-learning-tony-jebara-machine-learning-research-netflix</link>
             <guid isPermaLink="false">02ce9516-35ff-4715-be2c-f672b9e6c9b4</guid>
             <pubDate>Sun, 29 May 2016 23:09:10 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.marieclaire.com/sex-love/features/a20662/future-of-dating-apps-profiles/</link>
             <guid isPermaLink="false">fc632833-ab5a-41f8-bb50-79b679fec7eb</guid>
             <pubDate>Sun, 29 May 2016 22:35:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Artificially Intelligent Lawyer "Ross" Has Been Hired By Its First Official Law Firm]]></title>
-            <description><![CDATA[<article><h1>Artificially Intelligent Lawyer "Ross" Has Been Hired By Its First Official Law Firm</h1><p>In Brief Ross, the world's first artificially intelligent attorney, has its first official law firm. Baker & Hostetler announced that they will be employing Ross for its bankruptcy practice, currently comprised of almost 50 lawyers. Law firm Baker & Hostetler has announced that they are employing IBM's AI Ross to handle their bankruptcy practice, which at the moment consists of nearly 50 lawyers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d29994966ccabf138d0ded7c81416b7fd1d34646.png"></article>]]></description>
-            <link>http://futurism.com/artificially-intelligent-lawyer-ross-hired-first-official-law-firm/</link>
-            <guid isPermaLink="false">1c5f69fd-a038-4eff-b831-3e7b5e7d5580</guid>
-            <pubDate>Sun, 29 May 2016 22:00:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
