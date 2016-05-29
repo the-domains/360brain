@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 19:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 19:15:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Thu, 26 May 2016 08:46:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cloud Vision Explorer]]></title>
+            <description><![CDATA[<article><h1>Cloud Vision Explorer</h1></article>]]></description>
+            <link>http://vision-explorer.reactive.ai/#/?_k=o7zvs1</link>
+            <guid isPermaLink="false">8c364167-1616-4b72-824f-b58006c44524</guid>
+            <pubDate>Sun, 29 May 2016 19:15:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[TensorFlow Tutorial]]></title>
-            <description><![CDATA[<article><h1>TensorFlow Tutorial</h1><p>Random thoughts about machine learning and human/robot motions</p><img src="https://s3.amazonaws.com/www.terryum.io/images/TF_Tutorial_Slides.png"></article>]]></description>
+            <description><![CDATA[<article><h1>TensorFlow Tutorial</h1><p>Random thoughts about machine learning and human/robot motions</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ddbc534036f3e2b7640e66eb51492e1a07075eb8.png"></article>]]></description>
             <link>http://terryum.io/ml_practice/2016/05/28/TFIntroSlides/</link>
             <guid isPermaLink="false">f87e402f-2086-4d9e-bac5-25cd5bc3ed39</guid>
             <pubDate>Sun, 29 May 2016 19:13:02 GMT</pubDate>
