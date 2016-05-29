@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 19:35:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 19:35:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[10 Deep Learning Terms Explained in Simple English]]></title>
@@ -33,13 +33,6 @@
             <link>https://thegrid.ai/360brain/brain-deep-dreaming/index.html</link>
             <guid isPermaLink="false">167244f7-37dd-453a-ae5d-3572fd41f247</guid>
             <pubDate>Thu, 26 May 2016 08:46:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ICO is investigating Google DeepMind's data-sharing deal with the NHS | TheINQUIRER]]></title>
-            <description><![CDATA[<article><h1>ICO is investigating Google DeepMind's data-sharing deal with the NHS | TheINQUIRER</h1><p>THE INFORMATION COMMISSIONER'S OFFICE (ICO) has confirmed that it will be casting its eye over the controversial data-sharing deal between Google Deepmind and the NHS. Computer Weekly has the scoop, having received confirmation from the ICO that it has launched an investigation into the deal following at least one complaint from the general public.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c51d2a5da042138345101f15b6dcc5cf05a090e.jpg"></article>]]></description>
-            <link>http://www.theinquirer.net/inquirer/news/2456593/googles-deepmind-ai-business-has-access-to-records-of-16-millio-nhs-patients</link>
-            <guid isPermaLink="false">42e859d8-4698-4fc3-b7cd-bc5ca00a8ad6</guid>
-            <pubDate>Sun, 29 May 2016 19:35:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tensorflow - Neural Network Playground]]></title>
@@ -75,6 +68,13 @@
             <link>https://www.toptal.com/machine-learning/clustering-algorithms</link>
             <guid isPermaLink="false">325bc0f1-9530-4244-93fb-0e46025f1709</guid>
             <pubDate>Sun, 29 May 2016 19:17:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Calvin Giles - Finding needles in haystacks with Deep Neural Networks]]></title>
+            <description><![CDATA[<article><h1>Calvin Giles - Finding needles in haystacks with Deep Neural Networks</h1><p>PyData London 2016 With an inventory of millions of products, finding duplicates is intractable by hand. Neural networks can be used to learn a representation that maps duplicates close together in a manifold. We trained a network to perform multi-task classification.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7644b9e69b180bea08defc577e1bcfae911e57ae.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=bV1w_Q2Ihh4</link>
+            <guid isPermaLink="false">c2915b0d-07d9-44d9-9436-792ef0b91aa0</guid>
+            <pubDate>Sun, 29 May 2016 19:17:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
