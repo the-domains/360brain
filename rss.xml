@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 20:01:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 20:01:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[10 Deep Learning Terms Explained in Simple English]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/360brain/brain-deep-dreaming/index.html</link>
             <guid isPermaLink="false">167244f7-37dd-453a-ae5d-3572fd41f247</guid>
             <pubDate>Thu, 26 May 2016 08:46:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New face profiling software identifies terrorists and criminals]]></title>
+            <description><![CDATA[<article><h1>New face profiling software identifies terrorists and criminals</h1><p>Pulling a poker face means betraying no visible emotion, so that opponents can't tell what you're really thinking. But a Tel Aviv startup's face-profiling technology recently proved fairly accurate at predicting which four players were most likely to beat out 46 other contenders in an amateur poker tournament.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3fc604970689813d8c39d7506626b8828467210e.jpg"></article>]]></description>
+            <link>http://www.israel21c.org/new-face-profiling-software-identifies-terrorists-and-criminals/</link>
+            <guid isPermaLink="false">2f7e0c3b-722d-4cdd-95c5-de762ef28aee</guid>
+            <pubDate>Sun, 29 May 2016 20:01:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Linear Regression in Excel - Titanic: Machine Learning from Disaster | Kaggle]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.coursera.org/course/machlearning</link>
             <guid isPermaLink="false">73d452bc-7b50-474a-a02c-cf446cc1484e</guid>
             <pubDate>Sun, 29 May 2016 19:36:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ICO is investigating Google DeepMind's data-sharing deal with the NHS | TheINQUIRER]]></title>
-            <description><![CDATA[<article><h1>ICO is investigating Google DeepMind's data-sharing deal with the NHS | TheINQUIRER</h1><p>THE INFORMATION COMMISSIONER'S OFFICE (ICO) has confirmed that it will be casting its eye over the controversial data-sharing deal between Google Deepmind and the NHS. Computer Weekly has the scoop, having received confirmation from the ICO that it has launched an investigation into the deal following at least one complaint from the general public.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c51d2a5da042138345101f15b6dcc5cf05a090e.jpg"></article>]]></description>
-            <link>http://www.theinquirer.net/inquirer/news/2456593/googles-deepmind-ai-business-has-access-to-records-of-16-millio-nhs-patients</link>
-            <guid isPermaLink="false">42e859d8-4698-4fc3-b7cd-bc5ca00a8ad6</guid>
-            <pubDate>Sun, 29 May 2016 19:35:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
