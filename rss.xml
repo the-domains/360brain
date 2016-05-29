@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 19:41:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 19:42:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[10 Deep Learning Terms Explained in Simple English]]></title>
@@ -28,6 +28,13 @@
             <pubDate>Thu, 26 May 2016 08:46:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Microsoft is using Minecraft to train AI and soon, you can too]]></title>
+            <description><![CDATA[<article><h1>Microsoft is using Minecraft to train AI and soon, you can too</h1><p>When Microsoft acquired Mojang in 2014 for $2.5 billion, the idea was for the tech giant to break into mobile gaming with the developer's massively popular title, Minecraft. Now, researchers at Microsoft are using a new platform called AIX to train an artificial intelligence agent to learn how to climb a hill in the open-world game.</p><img src="http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/05/minecraft.jpg"></article>]]></description>
+            <link>http://thenextweb.com/microsoft/2016/03/14/microsoft-open-sourcing-platform-training-ai-minecraft/</link>
+            <guid isPermaLink="false">cb879d71-2361-458b-8932-fc4f5436df58</guid>
+            <pubDate>Sun, 29 May 2016 19:42:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Announcing our largest release of Watson Developer Cloud services]]></title>
             <description><![CDATA[<article><h1>Announcing our largest release of Watson Developer Cloud services</h1><p>Today we are announcing the release of new and enhanced Watson cognitive services across four areas: Language, Vision, Speech and Data Insights. These services use advanced artificial intelligence, machine learning and deep learning approaches to enable new opportunities to understand and engage users, and leverage the massive growth of unstructured data in multiple formats: text, speech, photos and videos.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c308aebebe1011f136ae830842482e8b1c10b9c.png"></article>]]></description>
             <link>https://developer.ibm.com/bluemix/2015/09/24/announcing-watson-developer-cloud-services-release/</link>
@@ -36,7 +43,7 @@
         </item>
         <item>
             <title><![CDATA[Geoffrey Hinton, the 'godfather' of deep learning, on AlphaGo]]></title>
-            <description><![CDATA[<article><h1>Geoffrey Hinton, the 'godfather' of deep learning, on AlphaGo</h1><p>In the right circles, it had all the buzz of a championship boxing match, and the tense sporting atmosphere of a Super Bowl. Millions of people tuned in on live streams to watch. The stakes, too, were high, at a million dollars.</p><img src="http://www.macleans.ca/wp-content/uploads/2016/03/MAC18_ALPHAGO_CAROUSEL01.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Geoffrey Hinton, the 'godfather' of deep learning, on AlphaGo</h1><p>In the right circles, it had all the buzz of a championship boxing match, and the tense sporting atmosphere of a Super Bowl. Millions of people tuned in on live streams to watch. The stakes, too, were high, at a million dollars.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac5acdc770ec5a98135cf4dc86f637af707b827b.jpg"></article>]]></description>
             <link>http://www.macleans.ca/society/science/the-meaning-of-alphago-the-ai-program-that-beat-a-go-champ/</link>
             <guid isPermaLink="false">63bb9144-eb68-43bf-b224-e07b7539c0f4</guid>
             <pubDate>Sun, 29 May 2016 19:41:02 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.nervanasys.com/demystifying-deep-reinforcement-learning/?imm_mid=0e2d7e&amp;cmp=em-data-na-na-newsltr_20160420</link>
             <guid isPermaLink="false">246f2943-d55b-4541-9489-59532944d061</guid>
             <pubDate>Sun, 29 May 2016 19:27:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft UK Faculty Connection Microsoft UK Faculty Connection]]></title>
-            <description><![CDATA[<article><h1>Microsoft UK Faculty Connection Microsoft UK Faculty Connection</h1><p>Azure Machine Learning Studio comes with a large number of machine learning algorithms that you can use to solve predictive analytics problems. Firstly it really depends on the answers to the following questions 1. The size, quality, and nature of the data? 2. What you want to do with the answer?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90eaac4284e4ce49f0eec147103f1bde0619392a.png"></article>]]></description>
-            <link>https://blogs.msdn.microsoft.com/uk_faculty_connection/2016/05/11/what-azure-machine-learning-algorithm-should-you-use/</link>
-            <guid isPermaLink="false">3793016c-bf89-46bf-8987-4e48fcd52ac0</guid>
-            <pubDate>Sun, 29 May 2016 19:25:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
