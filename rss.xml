@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 19:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 19:20:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/360brain/brain-deep-dreaming/index.html</link>
             <guid isPermaLink="false">167244f7-37dd-453a-ae5d-3572fd41f247</guid>
             <pubDate>Thu, 26 May 2016 08:46:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Machine Learning - University of Washington | Coursera]]></title>
+            <description><![CDATA[<article><h1>Machine Learning - University of Washington | Coursera</h1><p>Machine Learning from University of Washington. Why write programs when the computer can instead learn them from data? In this class you will learn how to make this happen, from the simplest machine learning algorithms to quite sophisticated ones. Enjoy! Take free online classes from 140+ top universities and educational organizations.</p></article>]]></description>
+            <link>https://www.coursera.org/course/machlearning</link>
+            <guid isPermaLink="false">73d452bc-7b50-474a-a02c-cf446cc1484e</guid>
+            <pubDate>Sun, 29 May 2016 19:20:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Clustering Algorithms: From Start To State Of The Art]]></title>
@@ -36,7 +43,7 @@
         </item>
         <item>
             <title><![CDATA[Robots won't just take jobs, they'll create them]]></title>
-            <description><![CDATA[<article><h1>Robots won't just take jobs, they'll create them</h1><p>Robots and artificial intelligence have come a long way since a Roomba entered your home to vacuum your floor and Siri gave you advice on the best Italian restaurants in your parents' neighborhood. Cars drive themselves. Robots deliver pizza. A revolution is underway.</p><img src="https://tctechcrunch2011.files.wordpress.com/2015/09/robotboss.jpg?w=764&h=400&crop=1"></article>]]></description>
+            <description><![CDATA[<article><h1>Robots won't just take jobs, they'll create them</h1><p>Robots and artificial intelligence have come a long way since a Roomba entered your home to vacuum your floor and Siri gave you advice on the best Italian restaurants in your parents' neighborhood. Cars drive themselves. Robots deliver pizza. A revolution is underway.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee470d7b549359b78ba9526a2ee9cd23a70c7eef.jpg"></article>]]></description>
             <link>http://techcrunch.com/2016/05/13/robots-wont-just-take-jobs-theyll-create-them/</link>
             <guid isPermaLink="false">be661326-25d6-44b3-b5fd-f7348d190c4d</guid>
             <pubDate>Sun, 29 May 2016 19:17:28 GMT</pubDate>
