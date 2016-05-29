@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 19:26:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 19:27:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Machine Learning - University of Washington | Coursera]]></title>
@@ -28,6 +28,13 @@
             <pubDate>Thu, 26 May 2016 08:46:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Guest Post (Part I): Demystifying Deep Reinforcement Learning - Nervana]]></title>
+            <description><![CDATA[<article><h1>Guest Post (Part I): Demystifying Deep Reinforcement Learning - Nervana</h1><p>Two years ago, a small company in London called DeepMind uploaded their pioneering paper " Playing Atari with Deep Reinforcement Learning " to Arxiv. In this paper they demonstrated how a computer learned to play Atari 2600 video games by observing just the screen pixels and receiving a reward when the game score increased.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d05706b9b804b64975c287f2105c014a741f6eb.png"></article>]]></description>
+            <link>http://www.nervanasys.com/demystifying-deep-reinforcement-learning/?imm_mid=0e2d7e&amp;cmp=em-data-na-na-newsltr_20160420</link>
+            <guid isPermaLink="false">246f2943-d55b-4541-9489-59532944d061</guid>
+            <pubDate>Sun, 29 May 2016 19:27:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Microsoft UK Faculty Connection Microsoft UK Faculty Connection]]></title>
             <description><![CDATA[<article><h1>Microsoft UK Faculty Connection Microsoft UK Faculty Connection</h1><p>Azure Machine Learning Studio comes with a large number of machine learning algorithms that you can use to solve predictive analytics problems. Firstly it really depends on the answers to the following questions 1. The size, quality, and nature of the data? 2. What you want to do with the answer?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90eaac4284e4ce49f0eec147103f1bde0619392a.png"></article>]]></description>
             <link>https://blogs.msdn.microsoft.com/uk_faculty_connection/2016/05/11/what-azure-machine-learning-algorithm-should-you-use/</link>
@@ -36,7 +43,7 @@
         </item>
         <item>
             <title><![CDATA[Nvidia creates a 15B-transistor chip for deep learning]]></title>
-            <description><![CDATA[<article><h1>Nvidia creates a 15B-transistor chip for deep learning</h1><p>Nvidia chief executive Jen-Hsun Huang announced that the company has created a new chip, the Tesla P100, with 15 billion transistors for deep-learning computing. It's the biggest chip ever made, Huang said. Huang made the announcement during his keynote at the GPUTech conference in San Jose, California.</p><img src="http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/uploads/2016/04/dgx-1-800x457.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Nvidia creates a 15B-transistor chip for deep learning</h1><p>Nvidia chief executive Jen-Hsun Huang announced that the company has created a new chip, the Tesla P100, with 15 billion transistors for deep-learning computing. It's the biggest chip ever made, Huang said. Huang made the announcement during his keynote at the GPUTech conference in San Jose, California.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/766e3d7fbce0dbbdd2a651361bf0b3c797a00d7e.jpg"></article>]]></description>
             <link>http://venturebeat.com/2016/04/05/nvidia-creates-a-15b-transistor-chip-for-deep-learning/</link>
             <guid isPermaLink="false">51d18a29-cad4-4612-8b35-c3647fda44a7</guid>
             <pubDate>Sun, 29 May 2016 19:25:55 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://terryum.io/ml_practice/2016/05/28/TFIntroSlides/</link>
             <guid isPermaLink="false">f87e402f-2086-4d9e-bac5-25cd5bc3ed39</guid>
             <pubDate>Sun, 29 May 2016 19:13:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World, by Pedro Domingos]]></title>
-            <description><![CDATA[<article><h1>The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World, by Pedro Domingos</h1><p>Learning algorithms rule the world. They monitor our credit card use as we wander through life and they decide which of our transactions might be fraudulent; they trawl our email and messages for clues as to which pop-up advertisements we are likely to respond positively to; they watch the way we walk around urban areas and stations to calculate whether we represent a terrorist threat; and more generally, they support the infrastructure of society and business.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ddfb0f74f74fcf7c5dca58f2ffcb7d1e7ffabfd1.jpg"></article>]]></description>
-            <link>https://www.timeshighereducation.com/books/review-the-master-algorithm-pedro-domingos-allen-lane</link>
-            <guid isPermaLink="false">a2b4e788-6844-460d-b37d-81c16ebe0502</guid>
-            <pubDate>Sun, 29 May 2016 19:11:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
