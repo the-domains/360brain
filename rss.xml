@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 20:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 20:10:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[10 Deep Learning Terms Explained in Simple English]]></title>
@@ -28,15 +28,8 @@
             <pubDate>Thu, 26 May 2016 08:46:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Finding Amazing Structures Hidden in Big, Complex, Dense, Raw Data - Marvin Weinstein (SETI Talks)]]></title>
-            <description><![CDATA[<article><h1>Finding Amazing Structures Hidden in Big, Complex, Dense, Raw Data - Marvin Weinstein (SETI Talks)</h1><p>Mr Marvin Weinstein consults on the application of Dynamic Quantum Clustering (DQC) to exploring and analyzing big, complex datasets. The goal is to reveal and understand unexpected hidden information without modeling the data or engaging in complex statistical analyses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/875ee83f0350a2fd399a14723c2c717ddcc63332.jpg"></article>]]></description>
-            <link>https://youtu.be/yaCDHrW8aO8</link>
-            <guid isPermaLink="false">4a7b6184-7d2a-4eb9-9591-efd75e6ce88a</guid>
-            <pubDate>Sun, 29 May 2016 20:10:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Google Cloud Vision API enters Beta, open to all to try!]]></title>
-            <description><![CDATA[<article><h1>Google Cloud Vision API enters Beta, open to all to try!</h1><p>Today, we're announcing the beta release of Google Cloud Vision API. Now anyone can submit their images to the Cloud Vision API to understand the contents of those images - from detecting everyday objects (for example, "sports car," "sushi," or "eagle") to reading text within the image or identifying product logos.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b115c17fdef15247ee47ea8dcb7820794785a8b.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Google Cloud Vision API enters Beta, open to all to try!</h1><p>Today, we're announcing the beta release of Google Cloud Vision API. Now anyone can submit their images to the Cloud Vision API to understand the contents of those images - from detecting everyday objects (for example, "sports car," "sushi," or "eagle") to reading text within the image or identifying product logos.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/502eb643d69dc2bb3a97bb1f3fc836352358c716.png"></article>]]></description>
             <link>https://cloudplatform.googleblog.com/2016/02/Google-Cloud-Vision-API-enters-beta-open-to-all-to-try.html</link>
             <guid isPermaLink="false">60ea2743-d99b-4661-a6a1-e41482954e80</guid>
             <pubDate>Sun, 29 May 2016 20:10:50 GMT</pubDate>
@@ -75,6 +68,13 @@
             <link>https://www.yahoo.com/tech/machines-creative-meet-google-coders-101534957.html</link>
             <guid isPermaLink="false">a82cc711-dd54-4c69-b9d4-6d98eb63c419</guid>
             <pubDate>Sun, 29 May 2016 19:58:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft is using Minecraft to train AI and soon, you can too]]></title>
+            <description><![CDATA[<article><h1>Microsoft is using Minecraft to train AI and soon, you can too</h1><p>When Microsoft acquired Mojang in 2014 for $2.5 billion, the idea was for the tech giant to break into mobile gaming with the developer's massively popular title, Minecraft. Now, researchers at Microsoft are using a new platform called AIX to train an artificial intelligence agent to learn how to climb a hill in the open-world game.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/baf0cf055a41070c815bde1db02d261d87c391da.jpg"></article>]]></description>
+            <link>http://thenextweb.com/microsoft/2016/03/14/microsoft-open-sourcing-platform-training-ai-minecraft/</link>
+            <guid isPermaLink="false">cb879d71-2361-458b-8932-fc4f5436df58</guid>
+            <pubDate>Sun, 29 May 2016 19:42:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
