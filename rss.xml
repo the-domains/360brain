@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 19:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 19:22:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -47,13 +47,6 @@
             <link>http://techcrunch.com/2016/05/13/robots-wont-just-take-jobs-theyll-create-them/</link>
             <guid isPermaLink="false">be661326-25d6-44b3-b5fd-f7348d190c4d</guid>
             <pubDate>Sun, 29 May 2016 19:17:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cloud Vision Explorer]]></title>
-            <description><![CDATA[<article><h1>Cloud Vision Explorer</h1></article>]]></description>
-            <link>http://vision-explorer.reactive.ai/#/?_k=o7zvs1</link>
-            <guid isPermaLink="false">8c364167-1616-4b72-824f-b58006c44524</guid>
-            <pubDate>Sun, 29 May 2016 19:15:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TensorFlow Tutorial]]></title>
