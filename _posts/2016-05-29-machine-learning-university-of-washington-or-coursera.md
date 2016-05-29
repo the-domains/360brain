@@ -41,10 +41,10 @@ app_links:
     id: org.coursera.android
 isBasedOnUrl: 'https://www.coursera.org/course/machlearning'
 title: 'Machine Learning - University of Washington | Coursera'
-datePublished: '2016-05-29T19:22:48.773Z'
-dateModified: '2016-05-29T19:22:48.280Z'
+datePublished: '2016-05-29T19:36:17.838Z'
+dateModified: '2016-05-29T19:36:17.432Z'
 sourcePath: _posts/2016-05-29-machine-learning-university-of-washington-or-coursera.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
