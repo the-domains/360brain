@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata, news]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 22:35:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 22:38:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Inside the Epic Go Tournament Where Google's AI Came to Life]]></title>
@@ -42,8 +42,15 @@
             <pubDate>Thu, 26 May 2016 08:46:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Soon We Won't Program Computers. We'll Train Them Like Dogs]]></title>
+            <description><![CDATA[<article><h1>Soon We Won't Program Computers. We'll Train Them Like Dogs</h1><p>Before the invention of the computer, most experimental psychologists thought the brain was an unknowable black box. You could analyze a subject's behavior- ring bell, dog salivates -but thoughts, memories, emotions? That stuff was obscure and inscrutable, beyond the reach of science.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c873187cdee0eebda41318fab78e1a487d0a8b9.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/05/the-end-of-code/</link>
+            <guid isPermaLink="false">1788bfc0-ce80-4242-b462-beeacd8d0f29</guid>
+            <pubDate>Sun, 29 May 2016 22:38:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Avatars Are Poised to Take Over Your Dating Life]]></title>
-            <description><![CDATA[<article><h1>Avatars Are Poised to Take Over Your Dating Life</h1><p>What if there were someone who could go on all your first dates for you? What if all that profile-skimming, right-swiping, text-flirting-all the time-consuming markers of online dating you already complain about-were nixed? Instead of constantly assessing matches, you'd say to your phone, "Siri, find me true love." And she would.</p><img src="http://mac.h-cdn.co/assets/16/21/1600x800/landscape-1464020655-stocksy-txp074b4dcdhez000-medium-967613.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Avatars Are Poised to Take Over Your Dating Life</h1><p>What if there were someone who could go on all your first dates for you? What if all that profile-skimming, right-swiping, text-flirting-all the time-consuming markers of online dating you already complain about-were nixed? Instead of constantly assessing matches, you'd say to your phone, "Siri, find me true love." And she would.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/caf16ef3b04f9dee32e3d168245183e6a4d0a78b.jpg"></article>]]></description>
             <link>http://www.marieclaire.com/sex-love/features/a20662/future-of-dating-apps-profiles/</link>
             <guid isPermaLink="false">fc632833-ab5a-41f8-bb50-79b679fec7eb</guid>
             <pubDate>Sun, 29 May 2016 22:35:02 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.datasciencecentral.com/profiles/blogs/10-deep-learning-terms-explained-in-simple-english</link>
             <guid isPermaLink="false">33258f87-5c9c-4bdf-8fad-b2a596a51dc0</guid>
             <pubDate>Sun, 29 May 2016 21:23:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here's how artificial intelligence could solve the biggest problem in education]]></title>
-            <description><![CDATA[<article><h1>Here's how artificial intelligence could solve the biggest problem in education</h1><p>www.flickr.com Ashok Goel wants to expand high-quality education to "millions" more people over the internet. That idea isn't new. It's the same goal that's pushed universities to make more and more courses and degree programs available over the internet, making it possible for students living on the far sides of the word to get degrees from American universities - and vice versa.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7234cd5478552a4e25e3f758f4e6aa0343f2603b.jpg"></article>]]></description>
-            <link>http://www.techinsider.io/how-watson-ai-can-transform-education-2016-5</link>
-            <guid isPermaLink="false">69abf712-5414-4dff-a1ba-6d1b58667673</guid>
-            <pubDate>Sun, 29 May 2016 21:07:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
