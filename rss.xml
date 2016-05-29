@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata, news]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 22:42:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 23:09:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Inside the Epic Go Tournament Where Google's AI Came to Life]]></title>
@@ -42,8 +42,15 @@
             <pubDate>Thu, 26 May 2016 08:46:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Deep Learning with Tony Jebara, Director of ML Research at Netflix]]></title>
+            <description><![CDATA[<article><h1>Deep Learning with Tony Jebara, Director of ML Research at Netflix</h1><p>Tony Jebara is a Professor of Computer Science at Columbia University and Director of Machine Learning Research at Netflix. His research intersects computer science and statistics to develop new frameworks for learning from data with applications in social networks, spatio-temporal data, vision and text.</p><img src="https://s3.amazonaws.com/re-work-production/post_images/189/yellow_orange_blue_connected_dots_brain/original.jpg?1461687090"></article>]]></description>
+            <link>https://re-work.co/blog/deep-learning-tony-jebara-machine-learning-research-netflix</link>
+            <guid isPermaLink="false">02ce9516-35ff-4715-be2c-f672b9e6c9b4</guid>
+            <pubDate>Sun, 29 May 2016 23:09:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Where Predictive Analytics Is Having the Biggest Impact]]></title>
-            <description><![CDATA[<article><h1>Where Predictive Analytics Is Having the Biggest Impact</h1><p>Create a FREE account to: Get eight free articles per month* Access to personalized content Save articles and create shareable folders in your personal HBR library Get 20% off your first order using code HBRORGREG3** *not including articles that are exclusively for Harvard Business Review magazine subscribers **does not include</p><img src="https://hbr.org/resources/images/article_assets/2016/05/may16-25-hbr-vincent-tsui-analytics-data-02.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Where Predictive Analytics Is Having the Biggest Impact</h1><p>Create a FREE account to: Get eight free articles per month* Access to personalized content Save articles and create shareable folders in your personal HBR library Get 20% off your first order using code HBRORGREG3** *not including articles that are exclusively for Harvard Business Review magazine subscribers **does not include</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/659a070d6f1e86dbf3a2894ceeb95cd1cad7cb1e.jpg"></article>]]></description>
             <link>https://hbr.org/2016/05/where-predictive-analytics-is-having-the-biggest-impact</link>
             <guid isPermaLink="false">617e7594-dabe-4cbd-9206-cd4bd95b0333</guid>
             <pubDate>Sun, 29 May 2016 22:42:29 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://futurism.com/artificially-intelligent-lawyer-ross-hired-first-official-law-firm/</link>
             <guid isPermaLink="false">1c5f69fd-a038-4eff-b831-3e7b5e7d5580</guid>
             <pubDate>Sun, 29 May 2016 22:00:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Guest Post (Part I): Demystifying Deep Reinforcement Learning - Nervana]]></title>
-            <description><![CDATA[<article><h1>Guest Post (Part I): Demystifying Deep Reinforcement Learning - Nervana</h1><p>Two years ago, a small company in London called DeepMind uploaded their pioneering paper " Playing Atari with Deep Reinforcement Learning " to Arxiv. In this paper they demonstrated how a computer learned to play Atari 2600 video games by observing just the screen pixels and receiving a reward when the game score increased.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d05706b9b804b64975c287f2105c014a741f6eb.png"></article>]]></description>
-            <link>http://www.nervanasys.com/demystifying-deep-reinforcement-learning/?imm_mid=0e2d7e&amp;cmp=em-data-na-na-newsltr_20160420</link>
-            <guid isPermaLink="false">246f2943-d55b-4541-9489-59532944d061</guid>
-            <pubDate>Sun, 29 May 2016 21:28:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
