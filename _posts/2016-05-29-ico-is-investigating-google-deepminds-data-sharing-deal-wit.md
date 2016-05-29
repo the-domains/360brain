@@ -22,10 +22,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.theinquirer.net/inquirer/news/2456593/googles-deepmind-ai-business-has-access-to-records-of-16-millio-nhs-patients'
 title: "ICO is investigating Google DeepMind's data-sharing deal with the NHS | TheINQUIRER"
-datePublished: '2016-05-29T19:35:25.437Z'
-dateModified: '2016-05-29T19:32:51.611Z'
-starred: false
+datePublished: '2016-05-29T21:26:33.138Z'
+dateModified: '2016-05-29T21:26:32.866Z'
 sourcePath: _posts/2016-05-29-ico-is-investigating-google-deepminds-data-sharing-deal-wit.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
