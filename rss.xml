@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 19:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 19:17:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/360brain/brain-deep-dreaming/index.html</link>
             <guid isPermaLink="false">167244f7-37dd-453a-ae5d-3572fd41f247</guid>
             <pubDate>Thu, 26 May 2016 08:46:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Calvin Giles - Finding needles in haystacks with Deep Neural Networks]]></title>
+            <description><![CDATA[<article><h1>Calvin Giles - Finding needles in haystacks with Deep Neural Networks</h1><p>PyData London 2016 With an inventory of millions of products, finding duplicates is intractable by hand. Neural networks can be used to learn a representation that maps duplicates close together in a manifold. We trained a network to perform multi-task classification.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7644b9e69b180bea08defc577e1bcfae911e57ae.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=bV1w_Q2Ihh4</link>
+            <guid isPermaLink="false">c2915b0d-07d9-44d9-9436-792ef0b91aa0</guid>
+            <pubDate>Sun, 29 May 2016 19:17:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cloud Vision Explorer]]></title>
