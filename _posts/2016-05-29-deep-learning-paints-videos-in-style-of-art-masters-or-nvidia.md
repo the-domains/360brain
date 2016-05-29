@@ -25,10 +25,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://blogs.nvidia.com/blog/2016/05/25/deep-learning-paints-videos/#prclt-C16pgrcG'
 title: 'Deep Learning Paints Videos in Style of Art Masters | NVIDIA Blog'
-datePublished: '2016-05-29T21:22:48.798Z'
-dateModified: '2016-05-29T21:22:34.178Z'
-starred: false
+datePublished: '2016-05-29T21:33:08.773Z'
+dateModified: '2016-05-29T21:33:08.383Z'
 sourcePath: _posts/2016-05-29-deep-learning-paints-videos-in-style-of-art-masters-or-nvidia.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
