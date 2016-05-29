@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata, news]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 21:49:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 22:00:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Inside the Epic Go Tournament Where Google's AI Came to Life]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Thu, 26 May 2016 08:46:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Artificially Intelligent Lawyer "Ross" Has Been Hired By Its First Official Law Firm]]></title>
+            <description><![CDATA[<article><h1>Artificially Intelligent Lawyer "Ross" Has Been Hired By Its First Official Law Firm</h1><p>In Brief Ross, the world's first artificially intelligent attorney, has its first official law firm. Baker & Hostetler announced that they will be employing Ross for its bankruptcy practice, currently comprised of almost 50 lawyers. Law firm Baker & Hostetler has announced that they are employing IBM's AI Ross to handle their bankruptcy practice, which at the moment consists of nearly 50 lawyers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d29994966ccabf138d0ded7c81416b7fd1d34646.png"></article>]]></description>
+            <link>http://futurism.com/artificially-intelligent-lawyer-ross-hired-first-official-law-firm/</link>
+            <guid isPermaLink="false">1c5f69fd-a038-4eff-b831-3e7b5e7d5580</guid>
+            <pubDate>Sun, 29 May 2016 22:00:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Guest Post (Part I): Demystifying Deep Reinforcement Learning - Nervana]]></title>
             <description><![CDATA[<article><h1>Guest Post (Part I): Demystifying Deep Reinforcement Learning - Nervana</h1><p>Two years ago, a small company in London called DeepMind uploaded their pioneering paper " Playing Atari with Deep Reinforcement Learning " to Arxiv. In this paper they demonstrated how a computer learned to play Atari 2600 video games by observing just the screen pixels and receiving a reward when the game score increased.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d05706b9b804b64975c287f2105c014a741f6eb.png"></article>]]></description>
             <link>http://www.nervanasys.com/demystifying-deep-reinforcement-learning/?imm_mid=0e2d7e&amp;cmp=em-data-na-na-newsltr_20160420</link>
@@ -68,13 +75,6 @@
             <link>http://www.androidauthority.com/google-ray-kurzweil-chatbots-695472/</link>
             <guid isPermaLink="false">a385f385-3ef5-4b5f-88a8-9e3292561126</guid>
             <pubDate>Sun, 29 May 2016 20:32:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This AI Algorithm Learns Simple Tasks as Fast as We Do]]></title>
-            <description><![CDATA[<article><h1>This AI Algorithm Learns Simple Tasks as Fast as We Do</h1><p>Software that learns to recognize written characters from just one example may point the way towards more powerful, more humanlike artificial intelligence. A new machine-learning approach highlights how research into human cognition could shape the future of artificial intelligence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fbaaa8af6b16720578e9cf6598aa9ad9d6cd60c9.jpg"></article>]]></description>
-            <link>https://www.technologyreview.com/s/544376/this-ai-algorithm-learns-simple-tasks-as-fast-as-we-do/</link>
-            <guid isPermaLink="false">d41fcc18-f576-4f43-9234-39a1ccf1c20a</guid>
-            <pubDate>Sun, 29 May 2016 20:30:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
