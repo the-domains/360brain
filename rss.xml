@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata, news]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 21:33:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 21:49:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Deep Learning Paints Videos in Style of Art Masters | NVIDIA Blog]]></title>
@@ -33,6 +33,13 @@
             <link>https://thegrid.ai/360brain/brain-deep-dreaming/index.html</link>
             <guid isPermaLink="false">167244f7-37dd-453a-ae5d-3572fd41f247</guid>
             <pubDate>Thu, 26 May 2016 08:46:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside the Epic Go Tournament Where Google's AI Came to Life]]></title>
+            <description><![CDATA[<article><h1>Inside the Epic Go Tournament Where Google's AI Came to Life</h1><p>Edward C. Monaghan Aja Huang dips his hand into a wooden bowl of polished black stones and, without looking, thumbs one between his middle and index finger. Peering through wire-rim glasses, he places the black stone on the board, in a mostly empty zone, just below and to the left of a single white stone.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9381592-404a-40ab-a739-acf090aa051c.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/05/google-alpha-go-ai/</link>
+            <guid isPermaLink="false">4454b24f-3cc2-4804-920f-d0ae8f65c163</guid>
+            <pubDate>Sun, 29 May 2016 21:49:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Guest Post (Part I): Demystifying Deep Reinforcement Learning - Nervana]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.technologyreview.com/s/544376/this-ai-algorithm-learns-simple-tasks-as-fast-as-we-do/</link>
             <guid isPermaLink="false">d41fcc18-f576-4f43-9234-39a1ccf1c20a</guid>
             <pubDate>Sun, 29 May 2016 20:30:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Facebook Open Sources Its AI Hardware as It Races Google]]></title>
-            <description><![CDATA[<article><h1>Facebook Open Sources Its AI Hardware as It Races Google</h1><p>In Silicon Valley, the new currency is artificial intelligence. Over the last few years, a technology called deep learning has proven so adept at identifying images, recognizing spoken words, and translating from one language to another, the titans of Silicon Valley are eager to push the state of the art even further-and push it quickly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af4bb9b5ee2524c5b22af721bb1f840a6d216573.jpg"></article>]]></description>
-            <link>http://www.wired.com/2015/12/facebook-open-source-ai-big-sur/</link>
-            <guid isPermaLink="false">d20ba675-e9f0-4d5b-a6de-f14c6b4d3832</guid>
-            <pubDate>Sun, 29 May 2016 20:30:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
