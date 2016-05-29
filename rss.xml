@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 19:36:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 19:41:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[10 Deep Learning Terms Explained in Simple English]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/360brain/brain-deep-dreaming/index.html</link>
             <guid isPermaLink="false">167244f7-37dd-453a-ae5d-3572fd41f247</guid>
             <pubDate>Thu, 26 May 2016 08:46:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Announcing our largest release of Watson Developer Cloud services]]></title>
+            <description><![CDATA[<article><h1>Announcing our largest release of Watson Developer Cloud services</h1><p>Today we are announcing the release of new and enhanced Watson cognitive services across four areas: Language, Vision, Speech and Data Insights. These services use advanced artificial intelligence, machine learning and deep learning approaches to enable new opportunities to understand and engage users, and leverage the massive growth of unstructured data in multiple formats: text, speech, photos and videos.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c308aebebe1011f136ae830842482e8b1c10b9c.png"></article>]]></description>
+            <link>https://developer.ibm.com/bluemix/2015/09/24/announcing-watson-developer-cloud-services-release/</link>
+            <guid isPermaLink="false">d8ce7b5b-22de-40c7-9128-c5829839abe8</guid>
+            <pubDate>Sun, 29 May 2016 19:41:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Machine Learning - University of Washington | Coursera]]></title>
@@ -68,13 +75,6 @@
             <link>http://venturebeat.com/2016/04/05/nvidia-creates-a-15b-transistor-chip-for-deep-learning/</link>
             <guid isPermaLink="false">51d18a29-cad4-4612-8b35-c3647fda44a7</guid>
             <pubDate>Sun, 29 May 2016 19:25:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Clustering Algorithms: From Start To State Of The Art]]></title>
-            <description><![CDATA[<article><h1>Clustering Algorithms: From Start To State Of The Art</h1><p>Clustering algorithms are very important to unsupervised learning and are key elements of machine learning in general. These algorithms give meaning to data that are not labelled and help find structure in chaos. But not all clustering algorithms are created equal; each has its own pros and cons.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9275b9a75373dd113edc36820e48722a74a1565f.jpg"></article>]]></description>
-            <link>https://www.toptal.com/machine-learning/clustering-algorithms</link>
-            <guid isPermaLink="false">325bc0f1-9530-4244-93fb-0e46025f1709</guid>
-            <pubDate>Sun, 29 May 2016 19:17:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
