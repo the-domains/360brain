@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 20:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 20:23:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[10 Deep Learning Terms Explained in Simple English]]></title>
@@ -28,8 +28,15 @@
             <pubDate>Thu, 26 May 2016 08:46:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[AI Algorithm Identifies Humorous Pictures]]></title>
+            <description><![CDATA[<article><h1>AI Algorithm Identifies Humorous Pictures</h1><p>The latest work with AI machines is expanding the new field of computational humor. Humor is a uniquely human quality. Most people can recognize funny sentences, incidents, pictures, videos, and so on. But it is not always easy to say why these things are humorous.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/447be7b4-a7e7-447a-98ac-2c8b8c6f0178.jpg"></article>]]></description>
+            <link>https://www.technologyreview.com/s/545316/ai-algorithm-identifies-humorous-pictures/</link>
+            <guid isPermaLink="false">a61a28a2-b65b-4c7b-ad3e-82813b7052d3</guid>
+            <pubDate>Sun, 29 May 2016 20:23:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How Will Artificial Intelligence Change War?]]></title>
-            <description><![CDATA[<article><h1>How Will Artificial Intelligence Change War?</h1><p>Automated systems have already reshaped modern warfare, most notably with the widespread use of drones in conflict. Now, experts predict that advances in artificial intelligence could further change how we fight battles. The new frontiers of warfare are not without ethical questions. Many have already challenged whether the United States should use unmanned drones to kill terrorists.</p><img src="https://i0.wp.com/timedotcom.files.wordpress.com/2016/01/artificial-intelligence-warfare.jpg?fit=440%2C330&quality=75&strip=color&ssl=1"></article>]]></description>
+            <description><![CDATA[<article><h1>How Will Artificial Intelligence Change War?</h1><p>Automated systems have already reshaped modern warfare, most notably with the widespread use of drones in conflict. Now, experts predict that advances in artificial intelligence could further change how we fight battles. The new frontiers of warfare are not without ethical questions. Many have already challenged whether the United States should use unmanned drones to kill terrorists.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f263e9a729f0a5ee4b9e0e78fd9b989fe1e28a46.jpg"></article>]]></description>
             <link>http://time.com/4180193/robots-war-artificial-intelligence-davos/</link>
             <guid isPermaLink="false">2214c3c8-9c3e-442e-97cb-9c890d3fd1fc</guid>
             <pubDate>Sun, 29 May 2016 20:17:27 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.telegraph.co.uk/science/2016/05/29/computers-could-develop-consciousness-and-may-need-human-rights/</link>
             <guid isPermaLink="false">e85e73a0-8e46-4a1c-83d3-73dc2b9eeada</guid>
             <pubDate>Sun, 29 May 2016 20:05:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New face profiling software identifies terrorists and criminals]]></title>
-            <description><![CDATA[<article><h1>New face profiling software identifies terrorists and criminals</h1><p>Pulling a poker face means betraying no visible emotion, so that opponents can't tell what you're really thinking. But a Tel Aviv startup's face-profiling technology recently proved fairly accurate at predicting which four players were most likely to beat out 46 other contenders in an amateur poker tournament.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3fc604970689813d8c39d7506626b8828467210e.jpg"></article>]]></description>
-            <link>http://www.israel21c.org/new-face-profiling-software-identifies-terrorists-and-criminals/</link>
-            <guid isPermaLink="false">2f7e0c3b-722d-4cdd-95c5-de762ef28aee</guid>
-            <pubDate>Sun, 29 May 2016 20:01:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
