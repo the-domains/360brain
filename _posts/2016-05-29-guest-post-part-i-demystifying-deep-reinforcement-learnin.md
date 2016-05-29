@@ -25,10 +25,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.nervanasys.com/demystifying-deep-reinforcement-learning/?imm_mid=0e2d7e&cmp=em-data-na-na-newsltr_20160420'
 title: 'Guest Post (Part I): Demystifying Deep Reinforcement Learning - Nervana'
-datePublished: '2016-05-29T19:27:24.288Z'
-dateModified: '2016-05-29T19:26:45.065Z'
-starred: false
+datePublished: '2016-05-29T21:26:30.024Z'
+dateModified: '2016-05-29T21:26:29.666Z'
 sourcePath: _posts/2016-05-29-guest-post-part-i-demystifying-deep-reinforcement-learnin.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
