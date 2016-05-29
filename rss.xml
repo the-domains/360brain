@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 20:01:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 20:05:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[10 Deep Learning Terms Explained in Simple English]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/360brain/brain-deep-dreaming/index.html</link>
             <guid isPermaLink="false">167244f7-37dd-453a-ae5d-3572fd41f247</guid>
             <pubDate>Thu, 26 May 2016 08:46:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Computers could develop consciousness and may need 'human' rights, says Oxford professor]]></title>
+            <description><![CDATA[<article><h1>Computers could develop consciousness and may need 'human' rights, says Oxford professor</h1><p>Advances in artificial intelligence could lead to computers and smartphones developing consciousness and they may need to be given 'human' rights, an expert has claimed. Marcus du Sautoy, who took over from Richard Dawkins as Professor for the Public Understanding of Science at Oxford University in 2008 said it was now possible to measure consciousness and, in the future, technology could be deemed to be 'alive.'</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97cf3dfd3bd86bc4dfabc31e5f1ee8ffd9402b4b.jpg"></article>]]></description>
+            <link>http://www.telegraph.co.uk/science/2016/05/29/computers-could-develop-consciousness-and-may-need-human-rights/</link>
+            <guid isPermaLink="false">e85e73a0-8e46-4a1c-83d3-73dc2b9eeada</guid>
+            <pubDate>Sun, 29 May 2016 20:05:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New face profiling software identifies terrorists and criminals]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.macleans.ca/society/science/the-meaning-of-alphago-the-ai-program-that-beat-a-go-champ/</link>
             <guid isPermaLink="false">63bb9144-eb68-43bf-b224-e07b7539c0f4</guid>
             <pubDate>Sun, 29 May 2016 19:41:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Machine Learning - University of Washington | Coursera]]></title>
-            <description><![CDATA[<article><h1>Machine Learning - University of Washington | Coursera</h1><p>Machine Learning from University of Washington. Why write programs when the computer can instead learn them from data? In this class you will learn how to make this happen, from the simplest machine learning algorithms to quite sophisticated ones. Enjoy! Take free online classes from 140+ top universities and educational organizations.</p></article>]]></description>
-            <link>https://www.coursera.org/course/machlearning</link>
-            <guid isPermaLink="false">73d452bc-7b50-474a-a02c-cf446cc1484e</guid>
-            <pubDate>Sun, 29 May 2016 19:36:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
