@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[artificial intelligence, machine learning, bigdata]]></title>
-        <description><![CDATA[artificial intelligence, machine learning, bigdata]]></description>
+        <title><![CDATA[artificial intelligence, machine learning, bigdata, news]]></title>
+        <description><![CDATA[artificial intelligence, machine learning, bigdata, news]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 20:32:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 21:07:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[10 Deep Learning Terms Explained in Simple English]]></title>
@@ -28,8 +28,15 @@
             <pubDate>Thu, 26 May 2016 08:46:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Here's how artificial intelligence could solve the biggest problem in education]]></title>
+            <description><![CDATA[<article><h1>Here's how artificial intelligence could solve the biggest problem in education</h1><p>www.flickr.com Ashok Goel wants to expand high-quality education to "millions" more people over the internet. That idea isn't new. It's the same goal that's pushed universities to make more and more courses and degree programs available over the internet, making it possible for students living on the far sides of the word to get degrees from American universities - and vice versa.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7234cd5478552a4e25e3f758f4e6aa0343f2603b.jpg"></article>]]></description>
+            <link>http://www.techinsider.io/how-watson-ai-can-transform-education-2016-5</link>
+            <guid isPermaLink="false">69abf712-5414-4dff-a1ba-6d1b58667673</guid>
+            <pubDate>Sun, 29 May 2016 21:07:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Google and Ray Kurzweil making chatbots that will allow for "interesting conversations"]]></title>
-            <description><![CDATA[<article><h1>Google and Ray Kurzweil making chatbots that will allow for "interesting conversations"</h1><p>ShutterstockCan we really have a conversation with a bot? Voice assistants like Siri, Cortana and Google Now make a good attempt at it, but these are still clearly machines. Their level of artificial intelligence is far behind human intellect.</p><img src="http://cdn04.androidauthority.net/wp-content/uploads/2015/07/machine-learning-ai-artificial-intelligence-e1462471461626.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Google and Ray Kurzweil making chatbots that will allow for "interesting conversations"</h1><p>ShutterstockCan we really have a conversation with a bot? Voice assistants like Siri, Cortana and Google Now make a good attempt at it, but these are still clearly machines. Their level of artificial intelligence is far behind human intellect.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f0d6dae9afdd839a65d7608d7d630843f5dc350.jpg"></article>]]></description>
             <link>http://www.androidauthority.com/google-ray-kurzweil-chatbots-695472/</link>
             <guid isPermaLink="false">a385f385-3ef5-4b5f-88a8-9e3292561126</guid>
             <pubDate>Sun, 29 May 2016 20:32:15 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://boingboing.net/2016/02/05/big-data-ethics-racially-bias.html</link>
             <guid isPermaLink="false">e0ee9192-f0e8-4668-b369-c61350bda377</guid>
             <pubDate>Sun, 29 May 2016 20:10:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finding Amazing Structures Hidden in Big, Complex, Dense, Raw Data - Marvin Weinstein (SETI Talks)]]></title>
-            <description><![CDATA[<article><h1>Finding Amazing Structures Hidden in Big, Complex, Dense, Raw Data - Marvin Weinstein (SETI Talks)</h1><p>Mr Marvin Weinstein consults on the application of Dynamic Quantum Clustering (DQC) to exploring and analyzing big, complex datasets. The goal is to reveal and understand unexpected hidden information without modeling the data or engaging in complex statistical analyses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/875ee83f0350a2fd399a14723c2c717ddcc63332.jpg"></article>]]></description>
-            <link>https://youtu.be/yaCDHrW8aO8</link>
-            <guid isPermaLink="false">4a7b6184-7d2a-4eb9-9591-efd75e6ce88a</guid>
-            <pubDate>Sun, 29 May 2016 20:10:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
