@@ -22,10 +22,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.datasciencecentral.com/profiles/blogs/10-deep-learning-terms-explained-in-simple-english'
 title: 10 Deep Learning Terms Explained in Simple English
-datePublished: '2016-05-29T19:35:17.667Z'
-dateModified: '2016-05-29T19:35:02.079Z'
-starred: true
+datePublished: '2016-05-29T21:23:41.246Z'
+dateModified: '2016-05-29T21:23:40.821Z'
 sourcePath: _posts/2016-05-29-10-deep-learning-terms-explained-in-simple-english.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
