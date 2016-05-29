@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata, news]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 21:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 21:24:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,6 +26,13 @@
             <link>http://www.datasciencecentral.com/profiles/blogs/10-deep-learning-terms-explained-in-simple-english</link>
             <guid isPermaLink="false">33258f87-5c9c-4bdf-8fad-b2a596a51dc0</guid>
             <pubDate>Sun, 29 May 2016 21:23:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deep Learning Paints Videos in Style of Art Masters | NVIDIA Blog]]></title>
+            <description><![CDATA[<article><h1>Deep Learning Paints Videos in Style of Art Masters | NVIDIA Blog</h1><p>Thanks to Instagram and Snapchat, adding filters to images and videos is pretty straight forward. But what if you could repaint your smartphone videos in the style of van Gogh's "Starry Night" or Munch's "The Scream"? A team of researchers from Germany's University of Freiburg has made significant strides toward this goal using an approach to artificial intelligence called deep learning.</p><img src="https://blogs.nvidia.com/wp-content/uploads/2016/05/artistic-video.jpg"></article>]]></description>
+            <link>https://blogs.nvidia.com/blog/2016/05/25/deep-learning-paints-videos/#prclt-C16pgrcG</link>
+            <guid isPermaLink="false">47d92a6c-38b7-4c98-93ce-164ec661bc3b</guid>
+            <pubDate>Sun, 29 May 2016 21:22:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Here's how artificial intelligence could solve the biggest problem in education]]></title>
@@ -68,13 +75,6 @@
             <link>http://time.com/4180193/robots-war-artificial-intelligence-davos/</link>
             <guid isPermaLink="false">2214c3c8-9c3e-442e-97cb-9c890d3fd1fc</guid>
             <pubDate>Sun, 29 May 2016 20:17:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Big Data Ethics: racially biased training data versus machine learning]]></title>
-            <description><![CDATA[<article><h1>Big Data Ethics: racially biased training data versus machine learning</h1><p>Writing in Slate, Cathy " Weapons of Math Destruction" O'Neill, a skeptical data-scientist, describes the ways that Big Data intersects with ethical considerations. O'Neill recounts an exercise to improve service to homeless families in New York City, in which data-analysis was used to identify risk-factors for long-term homelessness.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43796a6c1a71f815f691a7befea0d73409935c79.png"></article>]]></description>
-            <link>http://boingboing.net/2016/02/05/big-data-ethics-racially-bias.html</link>
-            <guid isPermaLink="false">e0ee9192-f0e8-4668-b369-c61350bda377</guid>
-            <pubDate>Sun, 29 May 2016 20:10:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
