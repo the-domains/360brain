@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[artificial intelligence, machine learning, bigdata]]></title>
         <description><![CDATA[artificial intelligence, machine learning, bigdata]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 08:46:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 29 May 2016 19:10:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Brain deep dreaming]]></title>
             <description><![CDATA[<article><h1>Brain deep dreaming</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/08afa4bb-4104-4892-b890-81fd25d5813b.jpg"></article>]]></description>
-            <link>undefinedbrain-deep-dreaming/index.html</link>
+            <link>https://thegrid.ai/360brain/brain-deep-dreaming/index.html</link>
             <guid isPermaLink="false">167244f7-37dd-453a-ae5d-3572fd41f247</guid>
             <pubDate>Thu, 26 May 2016 08:46:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pedro Domingos: "The Master Algorithm" | Talks at Google]]></title>
+            <description><![CDATA[<article><h1>Pedro Domingos: "The Master Algorithm" | Talks at Google</h1><p>Machine learning is the automation of discovery, and it is responsible for making our smartphones work, helping Netflix suggest movies for us to watch, and getting presidents elected. But there is a push to use machine learning to do even more-to cure cancer and AIDS and possibly solve every problem humanity has.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e0342f7df28cef44b868dea8ab5d1fd20956238.jpg"></article>]]></description>
+            <link>https://youtu.be/B8J4uefCQMc</link>
+            <guid isPermaLink="false">5282ee73-c7bf-47c8-bf3d-64d5261ca80f</guid>
+            <pubDate>Sun, 29 May 2016 19:10:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
