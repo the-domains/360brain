@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 20:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 20:30:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[10 Deep Learning Terms Explained in Simple English]]></title>
@@ -26,6 +26,20 @@
             <link>https://thegrid.ai/360brain/brain-deep-dreaming/index.html</link>
             <guid isPermaLink="false">167244f7-37dd-453a-ae5d-3572fd41f247</guid>
             <pubDate>Thu, 26 May 2016 08:46:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This AI Algorithm Learns Simple Tasks as Fast as We Do]]></title>
+            <description><![CDATA[<article><h1>This AI Algorithm Learns Simple Tasks as Fast as We Do</h1><p>Software that learns to recognize written characters from just one example may point the way towards more powerful, more humanlike artificial intelligence. A new machine-learning approach highlights how research into human cognition could shape the future of artificial intelligence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fbaaa8af6b16720578e9cf6598aa9ad9d6cd60c9.jpg"></article>]]></description>
+            <link>https://www.technologyreview.com/s/544376/this-ai-algorithm-learns-simple-tasks-as-fast-as-we-do/</link>
+            <guid isPermaLink="false">d41fcc18-f576-4f43-9234-39a1ccf1c20a</guid>
+            <pubDate>Sun, 29 May 2016 20:30:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Facebook Open Sources Its AI Hardware as It Races Google]]></title>
+            <description><![CDATA[<article><h1>Facebook Open Sources Its AI Hardware as It Races Google</h1><p>In Silicon Valley, the new currency is artificial intelligence. Over the last few years, a technology called deep learning has proven so adept at identifying images, recognizing spoken words, and translating from one language to another, the titans of Silicon Valley are eager to push the state of the art even further-and push it quickly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af4bb9b5ee2524c5b22af721bb1f840a6d216573.jpg"></article>]]></description>
+            <link>http://www.wired.com/2015/12/facebook-open-source-ai-big-sur/</link>
+            <guid isPermaLink="false">d20ba675-e9f0-4d5b-a6de-f14c6b4d3832</guid>
+            <pubDate>Sun, 29 May 2016 20:30:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AI Algorithm Identifies Humorous Pictures]]></title>
@@ -61,20 +75,6 @@
             <link>https://cloudplatform.googleblog.com/2016/02/Google-Cloud-Vision-API-enters-beta-open-to-all-to-try.html</link>
             <guid isPermaLink="false">60ea2743-d99b-4661-a6a1-e41482954e80</guid>
             <pubDate>Sun, 29 May 2016 20:10:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google Home vs. Amazon Echo - Are You Ready To Welcome Artificial Intelligence To Your Home? - Neurogadget]]></title>
-            <description><![CDATA[<article><h1>Google Home vs. Amazon Echo - Are You Ready To Welcome Artificial Intelligence To Your Home? - Neurogadget</h1><p>Smartwatches are no longer the most wanted new products on the market. People's enthusiasm begins to disappear, as they turn their attention to virtual reality headsets and smart home speakers. While VR headsets are paired with a smartphone and allow users to watch videos or play games, smart home speakers connect wirelessly and allow users ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d104027a6c17084f4f9c5715c95b3d451d14163.jpg"></article>]]></description>
-            <link>http://neurogadget.net/2016/05/29/google-home-vs-amazon-echo-ready-welcome-artificial-intelligence-home/31724</link>
-            <guid isPermaLink="false">822e76b4-2b95-4a04-8553-0683ad5312f6</guid>
-            <pubDate>Sun, 29 May 2016 20:05:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Computers could develop consciousness and may need 'human' rights, says Oxford professor]]></title>
-            <description><![CDATA[<article><h1>Computers could develop consciousness and may need 'human' rights, says Oxford professor</h1><p>Advances in artificial intelligence could lead to computers and smartphones developing consciousness and they may need to be given 'human' rights, an expert has claimed. Marcus du Sautoy, who took over from Richard Dawkins as Professor for the Public Understanding of Science at Oxford University in 2008 said it was now possible to measure consciousness and, in the future, technology could be deemed to be 'alive.'</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97cf3dfd3bd86bc4dfabc31e5f1ee8ffd9402b4b.jpg"></article>]]></description>
-            <link>http://www.telegraph.co.uk/science/2016/05/29/computers-could-develop-consciousness-and-may-need-human-rights/</link>
-            <guid isPermaLink="false">e85e73a0-8e46-4a1c-83d3-73dc2b9eeada</guid>
-            <pubDate>Sun, 29 May 2016 20:05:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
