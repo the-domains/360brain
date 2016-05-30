@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata, news]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 08:31:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 08:53:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Inside the Epic Go Tournament Where Google's AI Came to Life]]></title>
@@ -42,8 +42,15 @@
             <pubDate>Thu, 26 May 2016 08:46:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Robots have been about to take all the jobs for more than 200 years - Timeline]]></title>
+            <description><![CDATA[<article><h1>Robots have been about to take all the jobs for more than 200 years - Timeline</h1><p>Is it really different this time? Technology has always triggered fears of mass unemployment. In 1811 it was the Luddites, who assumed they were done for. In the 1930s, it was vaunted economist John Maynard Keynes, who implicated technology as one reason for the unemployment of the Great Depression.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/903a13df9f97cfca2b49c444d0221f69a8e3b5db.png"></article>]]></description>
+            <link>https://timeline.com/robots-have-been-about-to-take-all-the-jobs-for-more-than-200-years-5c9c08a2f41d#.kdumbf174</link>
+            <guid isPermaLink="false">84998b2d-ee63-4c95-b6a2-6864ad8eba4f</guid>
+            <pubDate>Mon, 30 May 2016 08:53:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Can social media predict the future?]]></title>
-            <description><![CDATA[<article><h1>Can social media predict the future?</h1><p>Presented by Marcus du Sautoy Scientist and broadcaster In a global population of over seven billion people, more than two billion of us use social media. It's estimated that each day we send out over 300 million tweets and share 4.75 billion pieces of content on Facebook.</p><img src="http://ichef.bbci.co.uk/images/ic/1600xn/p02z7w74.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Can social media predict the future?</h1><p>Presented by Marcus du Sautoy Scientist and broadcaster In a global population of over seven billion people, more than two billion of us use social media. It's estimated that each day we send out over 300 million tweets and share 4.75 billion pieces of content on Facebook.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74a5f53e2c8faceada7a64bc18b9237440f312b3.jpg"></article>]]></description>
             <link>http://www.bbc.co.uk/guides/zthd7hv</link>
             <guid isPermaLink="false">8184b4ba-e708-49c2-a559-da6e9a526efb</guid>
             <pubDate>Mon, 30 May 2016 08:31:08 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://hbr.org/2016/05/where-predictive-analytics-is-having-the-biggest-impact</link>
             <guid isPermaLink="false">617e7594-dabe-4cbd-9206-cd4bd95b0333</guid>
             <pubDate>Sun, 29 May 2016 22:42:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Soon We Won't Program Computers. We'll Train Them Like Dogs]]></title>
-            <description><![CDATA[<article><h1>Soon We Won't Program Computers. We'll Train Them Like Dogs</h1><p>Before the invention of the computer, most experimental psychologists thought the brain was an unknowable black box. You could analyze a subject's behavior- ring bell, dog salivates -but thoughts, memories, emotions? That stuff was obscure and inscrutable, beyond the reach of science.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c873187cdee0eebda41318fab78e1a487d0a8b9.jpg"></article>]]></description>
-            <link>http://www.wired.com/2016/05/the-end-of-code/</link>
-            <guid isPermaLink="false">1788bfc0-ce80-4242-b462-beeacd8d0f29</guid>
-            <pubDate>Sun, 29 May 2016 22:38:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
