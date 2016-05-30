@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata, news]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 23:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 08:31:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Inside the Epic Go Tournament Where Google's AI Came to Life]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Thu, 26 May 2016 08:46:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Can social media predict the future?]]></title>
+            <description><![CDATA[<article><h1>Can social media predict the future?</h1><p>Presented by Marcus du Sautoy Scientist and broadcaster In a global population of over seven billion people, more than two billion of us use social media. It's estimated that each day we send out over 300 million tweets and share 4.75 billion pieces of content on Facebook.</p><img src="http://ichef.bbci.co.uk/images/ic/1600xn/p02z7w74.jpg"></article>]]></description>
+            <link>http://www.bbc.co.uk/guides/zthd7hv</link>
+            <guid isPermaLink="false">8184b4ba-e708-49c2-a559-da6e9a526efb</guid>
+            <pubDate>Mon, 30 May 2016 08:31:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[IEEE Transactions on Medical Imaging]]></title>
             <description><![CDATA[<article><h1>IEEE Transactions on Medical Imaging</h1><p>IEEE is pleased to announce that the special May issue is now available</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de73c0e5bfe751e61bccb408f0bd719848605d3e.jpg"></article>]]></description>
             <link>https://thegrid.ai/360brain/ieee-transactions-on-medical-imaging/index.html</link>
@@ -68,13 +75,6 @@
             <link>http://www.wired.com/2016/05/the-end-of-code/</link>
             <guid isPermaLink="false">1788bfc0-ce80-4242-b462-beeacd8d0f29</guid>
             <pubDate>Sun, 29 May 2016 22:38:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Avatars Are Poised to Take Over Your Dating Life]]></title>
-            <description><![CDATA[<article><h1>Avatars Are Poised to Take Over Your Dating Life</h1><p>What if there were someone who could go on all your first dates for you? What if all that profile-skimming, right-swiping, text-flirting-all the time-consuming markers of online dating you already complain about-were nixed? Instead of constantly assessing matches, you'd say to your phone, "Siri, find me true love." And she would.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/caf16ef3b04f9dee32e3d168245183e6a4d0a78b.jpg"></article>]]></description>
-            <link>http://www.marieclaire.com/sex-love/features/a20662/future-of-dating-apps-profiles/</link>
-            <guid isPermaLink="false">fc632833-ab5a-41f8-bb50-79b679fec7eb</guid>
-            <pubDate>Sun, 29 May 2016 22:35:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
