@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata, news]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 08:53:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 20:18:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Inside the Epic Go Tournament Where Google's AI Came to Life]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Thu, 26 May 2016 08:46:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Watch Microsoft Accelerator's machine learning demo day here]]></title>
+            <description><![CDATA[<article><h1>Watch Microsoft Accelerator's machine learning demo day here</h1><p>TechCrunch is pleased to bring you Microsoft Accelerator's Machine Learning Demo Day this Thursday, June 2 from the Showbox SoDo in Seattle. The Microsoft Accelerator is an immersive 3 to 6-month program aimed at helping entrepreneurs get through the challenges of building a company, finding customers and scaling to global markets.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/decfd576055b6e477fa0e8469fbc6207d809569c.jpg"></article>]]></description>
+            <link>http://techcrunch.com/2016/05/30/watch-microsoft-accelerators-machine-learning-demo-day-here/</link>
+            <guid isPermaLink="false">f5fc90a8-7176-4c80-8ff7-69082a122392</guid>
+            <pubDate>Mon, 30 May 2016 20:18:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Robots have been about to take all the jobs for more than 200 years - Timeline]]></title>
             <description><![CDATA[<article><h1>Robots have been about to take all the jobs for more than 200 years - Timeline</h1><p>Is it really different this time? Technology has always triggered fears of mass unemployment. In 1811 it was the Luddites, who assumed they were done for. In the 1930s, it was vaunted economist John Maynard Keynes, who implicated technology as one reason for the unemployment of the Great Depression.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/903a13df9f97cfca2b49c444d0221f69a8e3b5db.png"></article>]]></description>
             <link>https://timeline.com/robots-have-been-about-to-take-all-the-jobs-for-more-than-200-years-5c9c08a2f41d#.kdumbf174</link>
@@ -68,13 +75,6 @@
             <link>https://re-work.co/blog/deep-learning-tony-jebara-machine-learning-research-netflix</link>
             <guid isPermaLink="false">02ce9516-35ff-4715-be2c-f672b9e6c9b4</guid>
             <pubDate>Sun, 29 May 2016 23:09:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Where Predictive Analytics Is Having the Biggest Impact]]></title>
-            <description><![CDATA[<article><h1>Where Predictive Analytics Is Having the Biggest Impact</h1><p>Create a FREE account to: Get eight free articles per month* Access to personalized content Save articles and create shareable folders in your personal HBR library Get 20% off your first order using code HBRORGREG3** *not including articles that are exclusively for Harvard Business Review magazine subscribers **does not include</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/659a070d6f1e86dbf3a2894ceeb95cd1cad7cb1e.jpg"></article>]]></description>
-            <link>https://hbr.org/2016/05/where-predictive-analytics-is-having-the-biggest-impact</link>
-            <guid isPermaLink="false">617e7594-dabe-4cbd-9206-cd4bd95b0333</guid>
-            <pubDate>Sun, 29 May 2016 22:42:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
