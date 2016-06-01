@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata, news]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 05:03:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 05:07:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Inside the Epic Go Tournament Where Google's AI Came to Life]]></title>
@@ -47,13 +47,6 @@
             <link>http://karpathy.github.io/2016/05/31/rl/</link>
             <guid isPermaLink="false">337f7068-b8ae-4473-b74f-eb20a95e7596</guid>
             <pubDate>Wed, 01 Jun 2016 05:03:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deep Reinforcement Learning: Pong from Pixels]]></title>
-            <description><![CDATA[<article><h1>Deep Reinforcement Learning: Pong from Pixels</h1><p>Musings of a Computer Scientist.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f436c79cb638b24a648a04272fa3d6d6c3fa128e.png"></article>]]></description>
-            <link>http://karpathy.github.io/2016/05/31/rl/</link>
-            <guid isPermaLink="false">8f036cd8-94d6-497e-bcdd-348a7cd1d195</guid>
-            <pubDate>Wed, 01 Jun 2016 04:48:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Watch Microsoft Accelerator's machine learning demo day here]]></title>
