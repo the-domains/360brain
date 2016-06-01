@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata, news]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 20:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 04:48:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Inside the Epic Go Tournament Where Google's AI Came to Life]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Thu, 26 May 2016 08:46:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Deep Reinforcement Learning: Pong from Pixels]]></title>
+            <description><![CDATA[<article><h1>Deep Reinforcement Learning: Pong from Pixels</h1><p>Musings of a Computer Scientist.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f436c79cb638b24a648a04272fa3d6d6c3fa128e.png"></article>]]></description>
+            <link>http://karpathy.github.io/2016/05/31/rl/</link>
+            <guid isPermaLink="false">8f036cd8-94d6-497e-bcdd-348a7cd1d195</guid>
+            <pubDate>Wed, 01 Jun 2016 04:48:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Watch Microsoft Accelerator's machine learning demo day here]]></title>
             <description><![CDATA[<article><h1>Watch Microsoft Accelerator's machine learning demo day here</h1><p>TechCrunch is pleased to bring you Microsoft Accelerator's Machine Learning Demo Day this Thursday, June 2 from the Showbox SoDo in Seattle. The Microsoft Accelerator is an immersive 3 to 6-month program aimed at helping entrepreneurs get through the challenges of building a company, finding customers and scaling to global markets.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/decfd576055b6e477fa0e8469fbc6207d809569c.jpg"></article>]]></description>
             <link>http://techcrunch.com/2016/05/30/watch-microsoft-accelerators-machine-learning-demo-day-here/</link>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/360brain/ieee-transactions-on-medical-imaging/index.html</link>
             <guid isPermaLink="false">f31e4141-30b3-4780-9013-226da1431f5a</guid>
             <pubDate>Sun, 29 May 2016 23:19:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deep Learning with Tony Jebara, Director of ML Research at Netflix]]></title>
-            <description><![CDATA[<article><h1>Deep Learning with Tony Jebara, Director of ML Research at Netflix</h1><p>Tony Jebara is a Professor of Computer Science at Columbia University and Director of Machine Learning Research at Netflix. His research intersects computer science and statistics to develop new frameworks for learning from data with applications in social networks, spatio-temporal data, vision and text.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9dc70542ec722ad4eb7de6377585a4350b6521eb.jpg"></article>]]></description>
-            <link>https://re-work.co/blog/deep-learning-tony-jebara-machine-learning-research-netflix</link>
-            <guid isPermaLink="false">02ce9516-35ff-4715-be2c-f672b9e6c9b4</guid>
-            <pubDate>Sun, 29 May 2016 23:09:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
