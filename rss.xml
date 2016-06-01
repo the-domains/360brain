@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata, news]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 05:07:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 05:19:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Inside the Epic Go Tournament Where Google's AI Came to Life]]></title>
@@ -42,8 +42,15 @@
             <pubDate>Thu, 26 May 2016 08:46:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Imagine Discovering That Your Teaching Assistant Really Is a Robot]]></title>
+            <description><![CDATA[<article><h1>Imagine Discovering That Your Teaching Assistant Really Is a Robot</h1><p>One day in January, Eric Wilson dashed off a message to the teaching assistants for an online course at the Georgia Institute of Technology. "I really feel like I missed the mark in giving the correct amount of feedback," he wrote, pleading to revise an assignment. Thirteen minutes later, the TA responded.</p><img src="https://si.wsj.net/public/resources/images/BN-NW986_0505ji_H_20160505152220.jpg"></article>]]></description>
+            <link>http://www.wsj.com/articles/if-your-teacher-sounds-like-a-robot-you-might-be-on-to-something-1462546621</link>
+            <guid isPermaLink="false">aa70649f-9148-4bd9-80e3-0c6e8943d47a</guid>
+            <pubDate>Wed, 01 Jun 2016 05:19:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Boosting Performance of Machine Learning Models]]></title>
-            <description><![CDATA[<article><h1>Boosting Performance of Machine Learning Models</h1><p>People often get stuck when they are asked to improve the performance of existing predictive models. What usually they do is try different algorithms and check their results. But often they end up not improving the model. Here are some of the steps you can take to boost your existing models.</p><img src="http://www.predictiveanalyticsworld.com/og/pat_logo1.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Boosting Performance of Machine Learning Models</h1><p>People often get stuck when they are asked to improve the performance of existing predictive models. What usually they do is try different algorithms and check their results. But often they end up not improving the model. Here are some of the steps you can take to boost your existing models.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aafdc6ef26036ec19412d23193eacb0561344335.png"></article>]]></description>
             <link>http://www.predictiveanalyticsworld.com/patimes/boosting-performance-of-machine-learning-models/7663/</link>
             <guid isPermaLink="false">b8fb0871-f56e-4cc3-a46e-1945ab8fe148</guid>
             <pubDate>Wed, 01 Jun 2016 05:06:21 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://timeline.com/robots-have-been-about-to-take-all-the-jobs-for-more-than-200-years-5c9c08a2f41d#.kdumbf174</link>
             <guid isPermaLink="false">84998b2d-ee63-4c95-b6a2-6864ad8eba4f</guid>
             <pubDate>Mon, 30 May 2016 08:53:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can social media predict the future?]]></title>
-            <description><![CDATA[<article><h1>Can social media predict the future?</h1><p>Presented by Marcus du Sautoy Scientist and broadcaster In a global population of over seven billion people, more than two billion of us use social media. It's estimated that each day we send out over 300 million tweets and share 4.75 billion pieces of content on Facebook.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74a5f53e2c8faceada7a64bc18b9237440f312b3.jpg"></article>]]></description>
-            <link>http://www.bbc.co.uk/guides/zthd7hv</link>
-            <guid isPermaLink="false">8184b4ba-e708-49c2-a559-da6e9a526efb</guid>
-            <pubDate>Mon, 30 May 2016 08:31:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
