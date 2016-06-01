@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://karpathy.github.io/2016/05/31/rl/'
 title: 'Deep Reinforcement Learning: Pong from Pixels'
-datePublished: '2016-06-01T04:48:00.292Z'
-dateModified: '2016-06-01T04:46:44.807Z'
+datePublished: '2016-06-01T05:03:46.393Z'
+dateModified: '2016-06-01T05:03:20.909Z'
 starred: false
 sourcePath: _posts/2016-06-01-deep-reinforcement-learning-pong-from-pixels.md
 inFeed: true
