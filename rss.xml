@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata, news]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 20:29:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 20:33:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Inside the Epic Go Tournament Where Google's AI Came to Life]]></title>
@@ -42,8 +42,15 @@
             <pubDate>Thu, 26 May 2016 08:46:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Facebook's new Deep Text AI categorizes everything you write]]></title>
+            <description><![CDATA[<article><h1>Facebook's new Deep Text AI categorizes everything you write</h1><p>If Facebook knows what your status update is about, it can show it to people who care about that topic. If it understands the difference between "I just got out of the taxi" and "I need a ride" messages, it can ask if you want an Uber.</p><img src="https://tctechcrunch2011.files.wordpress.com/2016/06/facebook-deep-text1.png?w=764&h=400&crop=1"></article>]]></description>
+            <link>http://techcrunch.com/2016/06/01/facebook-deep-text/</link>
+            <guid isPermaLink="false">3640689b-5260-4478-af9d-82d01f29a6ec</guid>
+            <pubDate>Wed, 01 Jun 2016 20:32:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Is Technology Replacing Recruiters?]]></title>
-            <description><![CDATA[<article><h1>Is Technology Replacing Recruiters?</h1><p>In an increasingly technology-driven world where the Internet of Things is taking over and mobile devices live in everyone's pocket, both businesses and consumers are always changing to keep up with technology. Every field is constantly evolving to meet the demands of advanced technology, whether it was the use of computers and email in the workplace, the invasion of mobile devices or the widespread use of cloud-based technology.</p><img src="http://cdn.business2community.com/wp-content/uploads/2016/05/recruiting-process.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Is Technology Replacing Recruiters?</h1><p>In an increasingly technology-driven world where the Internet of Things is taking over and mobile devices live in everyone's pocket, both businesses and consumers are always changing to keep up with technology. Every field is constantly evolving to meet the demands of advanced technology, whether it was the use of computers and email in the workplace, the invasion of mobile devices or the widespread use of cloud-based technology.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6437740e180468d766f9e014bc36a02fbad62b48.jpg"></article>]]></description>
             <link>http://www.business2community.com/human-resources/technology-replacing-recruiters-01551337</link>
             <guid isPermaLink="false">5cac4745-3bc9-4555-852e-94b1c9923dfb</guid>
             <pubDate>Wed, 01 Jun 2016 20:28:46 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://techcrunch.com/2016/05/30/watch-microsoft-accelerators-machine-learning-demo-day-here/</link>
             <guid isPermaLink="false">f5fc90a8-7176-4c80-8ff7-69082a122392</guid>
             <pubDate>Mon, 30 May 2016 20:18:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Robots have been about to take all the jobs for more than 200 years - Timeline]]></title>
-            <description><![CDATA[<article><h1>Robots have been about to take all the jobs for more than 200 years - Timeline</h1><p>Is it really different this time? Technology has always triggered fears of mass unemployment. In 1811 it was the Luddites, who assumed they were done for. In the 1930s, it was vaunted economist John Maynard Keynes, who implicated technology as one reason for the unemployment of the Great Depression.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/903a13df9f97cfca2b49c444d0221f69a8e3b5db.png"></article>]]></description>
-            <link>https://timeline.com/robots-have-been-about-to-take-all-the-jobs-for-more-than-200-years-5c9c08a2f41d#.kdumbf174</link>
-            <guid isPermaLink="false">84998b2d-ee63-4c95-b6a2-6864ad8eba4f</guid>
-            <pubDate>Mon, 30 May 2016 08:53:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
