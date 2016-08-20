@@ -4,7 +4,7 @@
         <description><![CDATA[artificial intelligence, machine learning, bigdata, news]]></description>
         <link>https://thegrid.ai/360brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 20:33:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 15:07:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/360brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Inside the Epic Go Tournament Where Google's AI Came to Life]]></title>
@@ -42,8 +42,15 @@
             <pubDate>Thu, 26 May 2016 08:46:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Convolution Neural Network CNN Implementation on Altera FPGA using OpenCL]]></title>
+            <description><![CDATA[<article><h1>Convolution Neural Network CNN Implementation on Altera FPGA using OpenCL</h1><p>Watch a short video on an introduction to machine learning and see a demo of the AlexNet CNN topology on Altera FPGAs</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f66029179c15d5eeae12f4ba9e94f072/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F78Qd5t-Mn0s%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=78Qd5t-Mn0s</link>
+            <guid isPermaLink="false">f134238e-6fd7-424a-a449-118d4a88387f</guid>
+            <pubDate>Sat, 20 Aug 2016 15:07:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Facebook's new Deep Text AI categorizes everything you write]]></title>
-            <description><![CDATA[<article><h1>Facebook's new Deep Text AI categorizes everything you write</h1><p>If Facebook knows what your status update is about, it can show it to people who care about that topic. If it understands the difference between "I just got out of the taxi" and "I need a ride" messages, it can ask if you want an Uber.</p><img src="https://tctechcrunch2011.files.wordpress.com/2016/06/facebook-deep-text1.png?w=764&h=400&crop=1"></article>]]></description>
+            <description><![CDATA[<article><h1>Facebook's new Deep Text AI categorizes everything you write</h1><p>If Facebook knows what your status update is about, it can show it to people who care about that topic. If it understands the difference between "I just got out of the taxi" and "I need a ride" messages, it can ask if you want an Uber.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1324e264b7503db62b30a3c264e9595604833b6.jpg"></article>]]></description>
             <link>http://techcrunch.com/2016/06/01/facebook-deep-text/</link>
             <guid isPermaLink="false">3640689b-5260-4478-af9d-82d01f29a6ec</guid>
             <pubDate>Wed, 01 Jun 2016 20:32:50 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://karpathy.github.io/2016/05/31/rl/</link>
             <guid isPermaLink="false">337f7068-b8ae-4473-b74f-eb20a95e7596</guid>
             <pubDate>Wed, 01 Jun 2016 05:03:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch Microsoft Accelerator's machine learning demo day here]]></title>
-            <description><![CDATA[<article><h1>Watch Microsoft Accelerator's machine learning demo day here</h1><p>TechCrunch is pleased to bring you Microsoft Accelerator's Machine Learning Demo Day this Thursday, June 2 from the Showbox SoDo in Seattle. The Microsoft Accelerator is an immersive 3 to 6-month program aimed at helping entrepreneurs get through the challenges of building a company, finding customers and scaling to global markets.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/decfd576055b6e477fa0e8469fbc6207d809569c.jpg"></article>]]></description>
-            <link>http://techcrunch.com/2016/05/30/watch-microsoft-accelerators-machine-learning-demo-day-here/</link>
-            <guid isPermaLink="false">f5fc90a8-7176-4c80-8ff7-69082a122392</guid>
-            <pubDate>Mon, 30 May 2016 20:18:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
