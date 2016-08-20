@@ -18,4 +18,8 @@ author:
   email: andre@amorim.me
   url: amorim.me
 name: 360Brain
+navigation:
+  - name: Youtube Channel
+    url: 'https://www.youtube.com/channel/UCilprwYUC_btSGxybDMNM7g'
+    type: external
 title: 'artificial intelligence, machine learning, bigdata, news'
